@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "473672828294",
+    "project_id": "dw-jobtimer-rsc",
+    "storage_bucket": "dw-jobtimer-rsc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473672828294:android:f729a383b65a76a75d9807",
+        "android_client_info": {
+          "package_name": "com.example.job_timer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473672828294-guhvtpm3dk5utfr1fh30ipgquafhk2dh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.job_timer",
+            "certificate_hash": "d1cdff7dd3a4a9451ab2e13e1ef8e3408aff5b32"
+          }
+        },
+        {
+          "client_id": "473672828294-n6v7ds4tehm1erls8pquql6ih9sglukf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg-gPfu6nBRdAiAIl3tmv_HCsrc-u2_-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473672828294-n6v7ds4tehm1erls8pquql6ih9sglukf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
